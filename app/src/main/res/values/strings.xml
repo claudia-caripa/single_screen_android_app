@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SingleScreenApp</string>
+    <string name="info1">Creative Pastry</string>
+    <string name="location">Buenos Aires, Argentina</string>
+    <string name="email">amarillopastelba@gmail.com</string>
+    <string name="orders">Order online, fresh delivery</string>
+    <string name="phone">+5491127485182</string>
 </resources>
